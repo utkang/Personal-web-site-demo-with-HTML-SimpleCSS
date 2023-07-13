@@ -2,4 +2,4 @@
 This is the first demo of my learning front-end path. And I just used HTML and SimpleCSS on this site.
 
 ## Link
-https://utkangenc-html-simplecss-demo.netlify.app/
+https://personal-web-site-demo-1-utkangenc.netlify.app/
